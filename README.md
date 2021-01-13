@@ -1,2 +1,2 @@
 # gitskills
-实习git
+Git is a free software...
